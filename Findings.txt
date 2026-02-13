@@ -1,0 +1,67 @@
+AI ADOPTION LANDSCAPE
+
+1. AI Adoption across different Industries
+->Manufacturing has invested more in AI, followed by Education & Techonology
+->Transportation is the lowest in AI Adoption 
+
+2. AI Adoption by Company Size & Industry
+->High = Health care (Large), Finance (Medium), Manufacturing (Small)
+->Medium = Technology (Large), Retail (Medium), Technology (Small)
+->Low = Manufacturing (Large), Education (Medium), Energy & Telecommunications (Small)
+   
+3. Salary Trends by AI Adoption Level
+->Less Adoption of AI has 2 % more Salary as compared to High & Medium
+   level of AI Adoption.
+->High, Medium=32%, less = 34%
+
+WORKFORCE & REMOTE TRENDS
+	
+4. Remote friendliness of AI-adopting roles by country and industry 
+->SanFrancisco has more AI Friendly Jobs followed by Singapore & Sydney.
+
+5.Job roles most influenced by AI adoption
+->Highly Influenced = Data Scientist  
+->Mediumly Influenced = HR Manager
+->Lowly Influenced = UI/UX Designer
+
+RISK & FUTURE OUTLOOK
+
+6. Automation risk associated with AI adoption
+->Higher the Level of AI Adoption = Medium risk of Automation
+->Medium the Level of AI Adoption = Higher risk of Automation
+->Lower the Level of AI Adoption = Lower risk of Automation
+
+7. Job growth projections vs AI adoption
+->Higher the Level of AI Adoption = Decline of Job Growth
+->Medium the Level of AI Adoption = Probability of Either Decline or Growth of Job Growth
+->Lower the Level of AI Adoption = Probability of Either Stable or Growth of Job Growth
+
+SKILLS & COMPENSATIONS
+
+8. Required skills driving AI adoption by industry
+->Higher the Level of AI Adoption = Skills Required "Marketing", followed by "Python", "Cyber Security"
+->Medium the Level of AI Adoption = Skills Required "Sales", followed by "Data Analysis", "Machine Learning" 
+->Lower the Level of AI Adoption = Skills Required "Project Management", followed by "Python", "Sales" 
+
+9. Skill-based salary differences in AI-driven roles
+JavaScript, Python, Sales, Machine Learning have more salary
+
+STRATEGIC INSIGHTS
+
+10. Identification of future-proof roles (high AI, low risk, high growth) 
+With HIGH AI, Low Risk of Automation, & High Growth of Job Protection
+Roles that Stand Out are: 
+Data Scientist & UX Designer 
+Lowest ones are :
+HR Manager, Marketing Specialist
+
+
+
+
+
+
+
+
+
+
+

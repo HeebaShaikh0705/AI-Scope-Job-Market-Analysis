@@ -1,0 +1,94 @@
+a Synthetic Data but realistic snapshot of modern job market.
+10 columns
+500 rows
+
+9 columns -> text (categorical)
+1 column -> decimal (numerical)
+500 values
+
+Data set :-
+
+A] Categorical Data Columns := {4}
+ 
+1. JOB TITLE
+Data Scientist
+Software Engineer
+AI Researcher
+Cybersecurity Analyst
+UX Designer
+Product Manager
+HR Manager
+Marketing Specialist
+Sales Manager
+Operations Manager
+
+2. INDUSTRY
+Technology
+Healthcare
+Finance
+Education
+Manufacturing
+Retail
+Entertainment
+Telecommunications
+Energy
+Transportation
+
+4. LOCATION
+New York
+San Francisco
+London
+Paris
+Berlin
+Toronto
+Sydney
+Tokyo
+Singapore
+Dubai
+
+7. REQUIRED SKILLS
+Python
+Machine Learning
+JavaScript
+Data Analysis
+Project Management
+Cybersecurity
+Marketing
+Sales
+Communication
+UX/UI Design
+
+B] Ordinal Data Columns := {4}
+
+3. COMPANY SIZE 
+Small
+Medium
+Large
+
+5. AI ADOPTION LEVEL 
+Low
+Medium
+High
+
+6. AUTOMATION RISK 
+Low
+Medium
+High
+
+10. JOB GROWTH PROJECTION 
+Decline
+Stable
+Growth
+
+C] Numerical Data Columns := {1}
+
+8. SALARY 
+Continuous numeric values (e.g., 31969.53 → 155209.82)
+This column does not have categories
+
+D] Binary Data Columns := {1}
+
+9. REMOTE FRIENDLY (Binary)
+Yes
+No
+
